@@ -8,7 +8,7 @@
     "zone.js": "0.8.26",
     "firebase": "4.13.1",
     "@types/node": "9.6.6",
-    "@angular/core": "6.0.0-rc.5",
+    "@angular/core": "10.2.5",
     "@angular/http": "6.0.0-rc.5",
     "@types/aframe": "0.7.1",
     "@angular/forms": "6.0.0-rc.5",
